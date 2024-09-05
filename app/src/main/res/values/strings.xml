@@ -4,4 +4,10 @@
     <string name="done">Done</string>
     <string name="hint">Your name</string>
     <string name="welcome">Welcome. What is your name?</string>
+    <string name="click">Click</string>
+    <string name="placeholder">temperature</string>
+    <string name="convert">Convert</string>
+    <string name="celsius">°C</string>
+    <string name="fahrenheit">°F</string>
+    <string name="template">%1$s %2$s</string>
 </resources>
