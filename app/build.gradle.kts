@@ -48,6 +48,9 @@ android {
         }
     }
 }
+kotlin.sourceSets.all {
+    languageSettings.enableLanguageFeature("ExplicitBackingFields")
+}
 
 dependencies {
 
