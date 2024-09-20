@@ -20,9 +20,6 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.composelearning.R
-import com.example.composelearning.ui.theme.Typography
-
-class ComposeUnitConverter {
 
     private val androidGreen = Color(0xFF3DDC84)
     private val androidGreenDark = Color(0xFF20B261)
@@ -96,4 +93,3 @@ class ComposeUnitConverter {
             }
         }
     }
-}
