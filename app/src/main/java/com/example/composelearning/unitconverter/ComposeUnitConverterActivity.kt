@@ -133,7 +133,7 @@ class ComposeUnitConverterActivity : ComponentActivity() {
                     selected = currentDestination?.hierarchy?.any { it.route == screen.route } == true,
                     onClick = {
                         navController.navigate(screen.route) {
-                            launchSingleTop
+                            launchSingleTop = true
                         }
                     },
                     label = {

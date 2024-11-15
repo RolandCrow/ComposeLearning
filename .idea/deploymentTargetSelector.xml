@@ -5,16 +5,19 @@
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="GreetingWrapper">
+      <SelectionState runConfigName="SizeChangeAnimationDemo">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="BoxDemo">
+      <SelectionState runConfigName="AnimatedVisibilityDemo">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="PreDefinedLayoutDemo">
+      <SelectionState runConfigName="MultipleValuesAnimationDemo">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="CustomLayoutDemoPreview">
+      <SelectionState runConfigName="AnimationDemoActivity">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="CrossfadeAnimationDemo">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
