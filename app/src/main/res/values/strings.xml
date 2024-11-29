@@ -29,4 +29,7 @@
     <string name="distances">Distances</string>
     <string name="meter">m</string>
     <string name="mile">mi</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="airport_shuttle">Airport shuttle</string>
 </resources>
